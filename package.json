@@ -1,0 +1,24 @@
+{
+  "name": "react-nodejs-counter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Super simple React + Node.js increment app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "express",
+    "counter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
+
+
